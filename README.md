@@ -16,3 +16,5 @@ This repository contains a .Zip file that is the exported file of my chatbot, wh
 ## Some screenshots of the bot are attached here : 
 
 <img src = "Screenshot_2020-12-01-21-30-16-487_org.telegram.messenger.jpg">
+
+<img src = "Screenshot_2020-12-01-21-30-38-463_org.telegram.messenger.jpg">
