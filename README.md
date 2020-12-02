@@ -12,3 +12,7 @@ This repository contains a .Zip file that is the exported file of my chatbot, wh
        * Click on Import from ZIP and upload the ZIP file from this repository.
    * Go to Integrations tab and select the telegram option there. Paste the token and click on Start.
    * Your Bot will get started. You will get its link in the Telegram BotFather Channel.
+
+## Some screenshots of the bot are attached here : 
+
+<img src = "Screenshot_2020-12-01-21-30-16-487_org.telegram.messenger.jpg">
