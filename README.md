@@ -1,6 +1,6 @@
 # Telegram ChatBot
 
-This repository contains a .Zip file that is the exported file of my chatbot, which was made using DialogFlow.
+This repository contains a .zip file that is the exported file of my chatbot, which was made using DialogFlow.
 
 ## Steps to Import the zip file again are:
    * Go to BotFather Channel in telegram, and create a new bot using (/newbot) command.
