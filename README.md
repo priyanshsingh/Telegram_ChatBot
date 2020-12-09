@@ -16,11 +16,11 @@ This repository contains a .zip file that is the exported file of my chatbot, wh
 ## Some screenshots of the bot are attached here :
 <table border = "0" cellpadding="20" cellspacing="20">
 <tr>
-  <td><img src = "Screenshot_2020-12-01-21-30-16-487_org.telegram.messenger.jpg" height="640" width="320"></td>
-  <td><img src = "Screenshot_2020-12-01-21-30-38-463_org.telegram.messenger.jpg" height="640" width="320"></td>
-</tr>
+  <td><img src = "Screenshot_2020-12-01-21-30-16-487_org.telegram.messenger.jpg" height="600" width="300"></td>
+  <td><img src = "Screenshot_2020-12-01-21-30-38-463_org.telegram.messenger.jpg" height="600" width="300"></td>
+</tr
 <tr>
-  <td><img src = "Screenshot_2020-12-01-21-31-19-236_org.telegram.messenger.jpg" height="640" width="320"></td>
+  <td><img src = "Screenshot_2020-12-01-21-31-19-236_org.telegram.messenger.jpg" height="600" width="300"></td>
   <td></td>
   </tr>
   </table>
